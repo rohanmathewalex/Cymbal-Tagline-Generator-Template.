@@ -1,12 +1,13 @@
 # Cymbal-Tagline-Generator-Template.
-Certainly! Below is the complete `README.md` file that you can copy and paste directly:
+ 
+![Vertex AI](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 
 ```markdown
 # Prompt Design in Vertex AI: Challenge Lab
 
-![Vertex AI](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
+ 
 
 ## Overview
 In this challenge lab, you will apply the skills learned from the Prompt Design in Vertex AI and Gemini course to complete a series of tasks independently. The lab is designed to test your ability to create effective prompts and use them in real-world scenarios involving generative AI within Google Cloud's Vertex AI platform. Successfully completing all tasks within the given time period will result in a 100% score, evaluated by an automated scoring system.
