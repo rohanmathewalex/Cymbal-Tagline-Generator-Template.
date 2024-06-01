@@ -43,3 +43,19 @@ You are part of an educational content startup that has partnered with Cymbal Di
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/prompt-design-vertex-ai.git
+2. Install Dependencies:
+   ```bash
+   pip install --upgrade google-cloud-aiplatform
+   gcloud auth application-default login
+
+3. Run Jupyter Notebooks:
+   ```bash
+   jupyter notebook
+
+## Usage
+- Image Analysis:
+- Navigate to image-analysis.ipynb.
+- Follow the instructions to modify and test the image analysis prompt.
+- Tagline Generator:
+- Navigate to tagline-generator.ipynb.
+- Follow the instructions to include specific keywords and test the tagline generation prompt. 
