@@ -232,9 +232,6 @@ By completing these tasks, you have successfully utilized Vertex AI's generative
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+ 
 
-```
-
-This README provides a comprehensive and structured guide to your project, including the steps, example code, and placeholders for your output images. Make sure to replace the placeholder paths with the actual paths to your images.
+ 
